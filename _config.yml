@@ -2,7 +2,7 @@
 title: Hushmail Blog
 email: sbs@hushmail.com
 description: "Security and privacy"
-baseurl: "http://sbrian.github.io/blog"
+baseurl: "/blog"
 url: "http://sbrian.github.io"
 twitter_username: hushmail
 
